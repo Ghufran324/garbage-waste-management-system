@@ -31,7 +31,7 @@ Instead of using standard Java built-in collection libraries (`PriorityQueue`, `
 
 ```bash
 # 1. Clone this repository
-git clone [https://github.com/Ghufran324/garbage-waste-management-system.git](https://github.com/Ghufran324/garbage-waste-management-system.git)
+git clone https://github.com/Ghufran324/garbage-waste-management-system.git
 
 # 2. Compile Java files
 javac Main.java
